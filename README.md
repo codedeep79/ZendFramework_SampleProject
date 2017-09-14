@@ -1,1 +1,1 @@
-# ZendFramework_SampleProject
+# Install Zend Framework Sample Project
